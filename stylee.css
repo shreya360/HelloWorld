@@ -1,0 +1,11 @@
+body{
+    background-image: url('back.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+
+    h1{
+        text-align: center;
+        text-decoration: underline overline dotted rgb(1, 65, 11);
+          }
+    }
